@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+It creates a new repo with .git file that contains the metadata info.
+You need to run the command "git init"
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is where you add files before you commit them to the repo.
+
