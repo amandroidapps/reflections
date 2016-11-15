@@ -14,3 +14,6 @@ To try experimental features. It will help to try out different things without i
 How do the diagrams help you visualize the branch structure?
 It helps to see what the branches are in a nice tree structure.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The changes made in both the branches are combined.
+
