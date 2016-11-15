@@ -11,3 +11,6 @@ By adding only those files that have changed that make logical sense.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 To try experimental features. It will help to try out different things without imacting the main branch.
 
+How do the diagrams help you visualize the branch structure?
+It helps to see what the branches are in a nice tree structure.
+
